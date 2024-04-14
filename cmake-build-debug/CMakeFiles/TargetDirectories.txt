@@ -1,0 +1,3 @@
+D:/SDLwithHeader/cmake-build-debug/CMakeFiles/SDLwithHeader.dir
+D:/SDLwithHeader/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SDLwithHeader/cmake-build-debug/CMakeFiles/rebuild_cache.dir

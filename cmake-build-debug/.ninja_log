@@ -1,0 +1,4 @@
+# ninja log v5
+2	187	7347740414138506	build.ninja	998777d98e3ee728
+2	1200	7347740489890707	CMakeFiles/SDLwithHeader.dir/main.cpp.obj	b2da3fdda674acb3
+1201	1299	7347740490868526	SDLwithHeader.exe	1ee1c1d20766c497
